@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MealDiary</string>
+    <string name="add">Добавить прием пищи</string>
+    <string name="export">Экспортировать приемы пищи</string>
+    <string name="importirovat">Импортировать приемы пищи</string>
+    <string name="nazvanie">Название блюда</string>
+    <string name="kallorii">Калории</string>
+    <string name="time">Выбрать время</string>
+    <string name="selecttime">Выбранное время</string>
+    <string name="save">Сохранить</string>
+</resources>
